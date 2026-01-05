@@ -31,3 +31,13 @@ Thumbs.db
 
 # Crash reports
 sysinfo.txt
+
+# Unity Version Control
+.plastic/
+
+# Editor settings
+.vscode/
+
+# Unity user-specific settings
+UserSettings/
+

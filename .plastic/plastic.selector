@@ -1,4 +1,0 @@
-repository "Gamedev project/Gamedev project@13469360264039@cloud"
-  path "/"
-    br "/main"
-    co "/main"
